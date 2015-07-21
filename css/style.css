@@ -1031,7 +1031,7 @@
 /* Banner */
 
 	#banner {
-		background-image: url(../images/dark_tint.png), url(../images/back.PNG);
+		background-image: url(../images/dark_tint.png), url(../images/back.png);
 		background-position: center center;
 		background-size: cover;
 		color: #ffffff;
