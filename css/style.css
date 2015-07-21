@@ -1031,11 +1031,11 @@
 /* Banner */
 
 	#banner {
-		background-image: url(../images/dark_tint.png), url(../images/SillyBanner1.jpg);
+		background-image: url(../images/dark_tint.png), url(../images/back.PNG);
 		background-position: center center;
 		background-size: cover;
 		color: #ffffff;
-		padding: 14em 0em 14em;
+		padding: 20em 0em 14em;
 		text-align: center;
 	}
 
